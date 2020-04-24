@@ -1,0 +1,45 @@
+.article{
+  width : 300px;
+  margin-left: 20px;
+}
+.black{
+  background-color: black;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+img{
+  width: 200px;
+  margin-bottom: 20px;
+}
+.caption{
+  width: 200px;
+}
+.presentation{
+  height:268.56px;
+}
+.thumbnail{
+  margin-left: 50px;
+}
+p{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+.col-md-4{
+  margin-top: 50px;
+}
+.row{
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.gridImg{
+  text-align: center;
+}
+.gridImg img{
+  width: 400px;
+}
